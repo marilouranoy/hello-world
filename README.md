@@ -1,2 +1,2 @@
 # hello-world
-My sample (and first) repository.
+I am Marilou A. Ranoy, a software developer by profession.
